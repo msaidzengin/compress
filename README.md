@@ -1,2 +1,1 @@
-# compress
-Compressing and Decompressing files in Java
+## Compressing and Decompressing text files in Java
